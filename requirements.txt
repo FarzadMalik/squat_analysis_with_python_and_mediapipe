@@ -1,0 +1,9 @@
+# Core Requirements
+mediapipe==0.10.0
+opencv-python==4.8.0.76
+numpy==1.24.3
+
+# Optional (for enhanced functionality)
+matplotlib==3.7.1  # For advanced visualizations
+tqdm==4.65.0       # For progress bars in video processing
+scipy==1.10.1      # For advanced angle calculations
